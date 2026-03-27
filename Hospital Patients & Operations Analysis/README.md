@@ -19,7 +19,7 @@ To run the analysis locally, make sure you have Python 3 and Jupyter Notebook in
 
 ## Files Included
 - **`Hospital_Data_Analysis.ipynb`**: The main Jupyter Notebook. This file contains well-commented Python code ranging from data cleaning to advanced statistical charting.
-- **`Hospital Data.csv`**: The primary dataset with 500k hospital stay entries. Due to size limitations, it can be parsed using pandas correctly in chunks or as a whole depending on system memory.
+- **`Hospital Data.csv`**: The primary dataset with 500k hospital stay entries. Due to size limitations, it can be parsed using pandas correctly in chunks or as a whole depending on system memory. [Download](https://github.com/Moiz-Ali-Rajpoot/SQL-Projects/blob/main/Hospital%20Patients%20%26%20Operations%20Insights/Hospital%20Data.csv)
 - **`generate_hospital_nb.py`**: A generator script to build the jupyter notebook file automatically using nbformat.
 
 ## How to View and Run
